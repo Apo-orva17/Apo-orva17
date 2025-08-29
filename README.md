@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apo-orva17](https://github.com/Apo-orva17)
 
-- 💬 Ask me about **ReactJs, HTML, CSS, JS**
+- 💬 Ask me about **MERN Stack, HTML5, CSS3, JS**
 
 - 📫 How to reach me **apoorvaar17@gmail.com**
 
